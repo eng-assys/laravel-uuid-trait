@@ -1,7 +1,7 @@
 {
     "name": "eng_assys/laravel-uuid-trait",
     "description": "Enable auto fill of uuid field to Laravel Models and enable find by uuid function",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "type": "library",
     "license": "MIT",
     "authors": [

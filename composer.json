@@ -1,6 +1,17 @@
 {
     "name": "eng_assys/laravel-uuid-trait",
     "description": "Enable auto fill of uuid field to Laravel Models and enable find by uuid function",
+    "version": "0.0.1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Vinicius dos Santos Assis",
+            "email": "eng.assys@gmail.com",
+            "homepage": "https://www.linkedin.com/in/lucas-assis-81646a58/",
+            "role": "Tech Leader"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "LaravelUuid\\": "src"
@@ -9,6 +20,5 @@
     "require": {
         "php": ">=7.2",
         "ramsey/uuid": "^3.8"
-    },
-    "license": "MIT"
+    }
 }

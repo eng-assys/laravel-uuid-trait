@@ -1,0 +1,14 @@
+{
+    "name": "eng_assys/laravel-uuid-trait",
+    "description": "Enable auto fill of uuid field to Laravel Models and enable find by uuid function",
+    "autoload": {
+        "psr-4": {
+            "LaravelUuid\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.2",
+        "ramsey/uuid": "^3.8"
+    },
+    "license": "MIT"
+}
